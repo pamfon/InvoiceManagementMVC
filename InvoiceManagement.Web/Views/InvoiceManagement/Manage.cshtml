@@ -1,0 +1,168 @@
+﻿@model CustomerViewModel
+
+@{var paymentTermsDictionary = new Dictionary<int, string>
+    {
+    { 0,  ""  },
+    { 1, "Terms: 10 days" },
+    { 2, "Terms: 20 days" },
+    { 3, "Terms: 30 days" },
+    { 4, "Terms: 60 days" },
+    { 5, "Terms: 90 days" }
+    };
+}
+
+<div class="container text-center">
+    <div class="row">
+        <div class="col-8">
+            <h1>Invoices for @Model.Customer.Name</h1>
+            <h2>Address: @(Model.Customer.Address1 + " " + Model.Customer.Address2)</h2>
+            <br />
+            <h3>Invoices</h3>
+            @if (Model.Customer.Invoices.Count > 0)
+            {
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Invoice#</th>
+                            <th>Due date</th>
+                            <th>Amount paid</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var invoice in Model.Customer.Invoices)
+                        {
+                            <tr>
+                                <td><a class="link-info" asp-action="ManageInvoice" asp-route-invoiceId="@invoice.InvoiceId" asp-route-customerId="@Model.Customer.CustomerId">@invoice.InvoiceId</a></td>
+                                <td>@invoice.InvoiceDueDate?.ToString("MM-dd-yyyy")</td>
+                                <td>@invoice.PaymentTotal</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <br />
+
+
+            }
+            else
+            {
+                <div class="alert alert-primary" role="alert">No Invoices found.</div>
+            }
+            <form method="post" asp-action="AddInvoice" asp-route-customerId="@Model.Customer.CustomerId">
+                <div class="row align-items-center mb-3">
+                    <div class="col-md-3 text-end">
+                        <label class="form-label" asp-for="Invoice.InvoiceDate">Date:</label>
+                    </div>
+                    <div class="col-md-6">
+                        <input class="form-control" type="date" asp-for="Invoice.InvoiceDate" />
+                    </div>
+                    <div class="col-md-3">
+                        <span class="text-danger" asp-validation-for="Invoice.InvoiceDate"></span>
+                    </div>
+                </div>
+
+                <div class="row align-items-center" mb-3>
+                    <div class="col-md-3 text-end">
+                        <label class="form-label" asp-for="Invoice.PaymentTermsId">Payment Term:</label>
+                    </div>
+                    <div class="col-md-6">
+                        <select class="form-control" asp-for="Invoice.PaymentTermsId">
+                            <option value = 0>Select a term</option>
+                            @foreach (var paymentTerm in Model.PaymentTerms)
+                            {
+                                <option value="@paymentTerm.PaymentTermsId">@paymentTerm.Description</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="col-md-3" mb-3>
+                        <span class="text-danger" asp-validation-for="Invoice.PaymentTermsId"></span>
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-9 offset-md-3" mb-3>
+                        <input class="btn btn-primary" type="submit" value="Add Invoice" />
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-4">
+            <a class="link-primary" asp-action="Customers" asp-route-category="@Model.Category">Return to @Model.Category Customers</a>
+            <h2>@paymentTermsDictionary[Model.Invoice.PaymentTermsId]</h2>
+            <br />
+            @if(Model.InvoiceLineItems != null)
+            {
+                <h3>Line items for invoice #@Model.Invoice.InvoiceId</h3>
+                @if (Model.InvoiceLineItems.Count > 0)
+                {
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Description</th>
+                                <th>Amount</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.InvoiceLineItems)
+                            {
+                                <tr>
+                                    <td>@item.Description</td>
+                                    <td>@item.Amount?.ToString("#,0.##")</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <div class="col-auto">
+                        @{
+                            var total = Model.InvoiceLineItems.Sum(i => i.Amount);
+                            <p>Total: @total?.ToString("C")</p>
+                        }
+                    </div>
+                    <br />
+                }
+                else
+                {
+                    <div class="alert alert-primary" role="alert">No Line items found.</div>
+                }
+                <form method="post" asp-action="AddInvoiceLineItem" asp-route-invoiceId="@Model.Invoice.InvoiceId" asp-route-customerId="@Model.Customer.CustomerId">
+                    <div class="row align-items-center mb-3">
+                        <div class="col-md-3 text-end">
+                            <label class="form-label" asp-for="InvoiceLineItem.Description">Description:</label>
+                        </div>
+                        <div class="col-md-6">
+                            <input class="form-control" type="text" asp-for="InvoiceLineItem.Description" />
+                        </div>
+                        <div class="col-md-3">
+                            <span class="text-danger" asp-validation-for="InvoiceLineItem.Description"></span>
+                        </div>
+                    </div>
+
+                    <div class="row align-items-center mb-3">
+                        <div class="col-md-3 text-end">
+                            <label class="form-label" asp-for="InvoiceLineItem.Amount">Amount:</label>
+                        </div>
+                        <div class="col-md-6">
+                            <input class="form-control" type="text" asp-for="InvoiceLineItem.Amount" />
+                        </div>
+                        <div class="col-md-3">
+                            <span class="text-danger" asp-validation-for="InvoiceLineItem.Amount"></span>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row">
+                        <div class="col-md-9 offset-md-3" mb-3>
+                            <input class="btn btn-primary" type="submit" value="Add line item" />
+                        </div>
+                    </div>
+                </form>
+            }
+            else
+            {
+                <p>Chose a Invoice</p>
+            }
+
+
+        </div>
+    </div>
+</div>
+
+

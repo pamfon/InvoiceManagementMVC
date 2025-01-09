@@ -1,0 +1,14 @@
+﻿@model CustomerViewModel
+
+@{
+    ViewData["Title"] = "Add a Customer";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="post" asp-action="AddCustomer">
+    <partial name="_CustomerFormPartialView.cshtml" for=@Model.Customer/>
+    <input class="btn btn-primary" type="submit" value="Add" />
+    <a class="btn btn-danger" asp-action="Customers" asp-route-category="@Model.Category">Cancel</a>
+</form>
+<p></p>

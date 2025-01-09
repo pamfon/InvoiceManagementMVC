@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InvoiceManagement.Web.props" />
+</Project>

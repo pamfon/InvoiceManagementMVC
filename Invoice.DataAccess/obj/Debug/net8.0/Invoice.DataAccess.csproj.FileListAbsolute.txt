@@ -1,0 +1,14 @@
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\bin\Debug\net8.0\Invoice.DataAccess.deps.json
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\bin\Debug\net8.0\Invoice.DataAccess.runtimeconfig.json
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\bin\Debug\net8.0\Invoice.DataAccess.dll
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\bin\Debug\net8.0\Invoice.DataAccess.pdb
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\Invoice.DataAccess.csproj.AssemblyReference.cache
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\Invoice.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\Invoice.DataAccess.AssemblyInfoInputs.cache
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\Invoice.DataAccess.AssemblyInfo.cs
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\Invoice.DataAccess.csproj.CoreCompileInputs.cache
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\Invoice.DataAccess.dll
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\refint\Invoice.DataAccess.dll
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\Invoice.DataAccess.pdb
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\Invoice.DataAccess.genruntimeconfig.cache
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\ref\Invoice.DataAccess.dll

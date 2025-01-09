@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InvoiceManagementApp/1.0.0": {
+        "runtime": {
+          "InvoiceManagementApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvoiceManagementApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

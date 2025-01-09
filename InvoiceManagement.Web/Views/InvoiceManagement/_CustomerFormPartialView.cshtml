@@ -1,0 +1,63 @@
+﻿@model Customer //add entity in the viewimport folder
+
+<div class="text-danger" asp-validation-summary="ModelOnly"></div>
+<div class="mb-3">
+    <label class="col-form-label" asp-for="Name">Name:</label>
+    <span class="form-text text-danger" asp-validation-for="Name"></span>
+    <input class="form-control" type="text" asp-for="Name" />
+</div>
+
+<div class="mb-3">
+    <label class="col-form-label" asp-for="Address1">Address 1:</label>
+    <span class="form-text text-danger" asp-validation-for="Address1"></span>
+    <input class="form-control" type="text" asp-for="Address1" />
+</div>
+
+<div class="mb-3">
+    <label class="col-form-label" asp-for="Address2">Address 2:</label>
+    <span class="form-text text-danger" asp-validation-for="Address2"></span>
+    <input class="form-control" type="text" asp-for="Address2" />
+</div>
+
+<div class="mb-3">
+    <label class="col-form-label" asp-for="City">City:</label>
+    <span class="form-text text-danger" asp-validation-for="City"></span>
+    <input class="form-control" type="text" asp-for="City" />
+</div>
+
+<div class="mb-3">
+    <label class="col-form-label" asp-for="ProvinceOrState">Province/State:</label>
+    <span class="form-text text-danger" asp-validation-for="ProvinceOrState"></span>
+    <input class="form-control" type="text" asp-for="ProvinceOrState" />
+</div>
+
+<div class="mb-3">
+    <label class="col-form-label" asp-for="ZipOrPostalCode">Zip/Postal Code:</label>
+    <span class="form-text text-danger" asp-validation-for="ZipOrPostalCode"></span>
+    <input class="form-control" type="text" asp-for="ZipOrPostalCode" />
+</div>
+
+<div class="mb-3">
+    <label class="col-form-label" asp-for="Phone">Phone:</label>
+    <span class="form-text text-danger" asp-validation-for="Phone"></span>
+    <input class="form-control" type="text" asp-for="Phone" />
+</div>
+
+<div class="mb-3">
+    <label class="col-form-label" asp-for="ContactLastName">Contact Last Name:</label>
+    <span class="form-text text-danger" asp-validation-for="ContactLastName"></span>
+    <input class="form-control" type="text" asp-for="ContactLastName" />
+</div>
+
+<div class="mb-3">
+    <label class="col-form-label" asp-for="ContactFirstName">Contact First Name:</label>
+    <span class="form-text text-danger" asp-validation-for="ContactFirstName"></span>
+    <input class="form-control" type="text" asp-for="ContactFirstName" />
+</div>
+
+<div class="mb-3">
+    <label class="col-form-label" asp-for="ContactEmail">Contact Email:</label>
+    <span class="form-text text-danger" asp-validation-for="ContactEmail"></span>
+    <input class="form-control" type="text" asp-for="ContactEmail" />
+</div>
+

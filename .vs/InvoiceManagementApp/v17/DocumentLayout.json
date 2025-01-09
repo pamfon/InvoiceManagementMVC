@@ -1,0 +1,459 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\views\\invoicemanagement\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\views\\invoicemanagement\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A420A77-0E0F-49DF-87A5-ABCB6200D4A0}|InvoiceManagement.Tests\\InvoiceManagement.Tests.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.tests\\invoicemanagementcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A420A77-0E0F-49DF-87A5-ABCB6200D4A0}|InvoiceManagement.Tests\\InvoiceManagement.Tests.csproj|solutionrelative:invoicemanagement.tests\\invoicemanagementcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\controllers\\invoicemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\controllers\\invoicemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoice.dataaccess\\services\\invoicemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|solutionrelative:invoice.dataaccess\\services\\invoicemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoice.dataaccess\\services\\iinvoicemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|solutionrelative:invoice.dataaccess\\services\\iinvoicemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoice.dataaccess\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|solutionrelative:invoice.dataaccess\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\views\\invoicemanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\views\\invoicemanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\views\\invoicemanagement\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\views\\invoicemanagement\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoice.dataaccess\\entities\\paymentterms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|solutionrelative:invoice.dataaccess\\entities\\paymentterms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoice.dataaccess\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|solutionrelative:invoice.dataaccess\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\views\\invoicemanagement\\_customerformpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\views\\invoicemanagement\\_customerformpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\views\\invoicemanagement\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\views\\invoicemanagement\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\models\\customersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\models\\customersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoice.dataaccess\\entities\\invoicelineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|solutionrelative:invoice.dataaccess\\entities\\invoicelineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\models\\invoicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\models\\invoicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoice.dataaccess\\entities\\invoicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|solutionrelative:invoice.dataaccess\\entities\\invoicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\models\\invoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\models\\invoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoicemanagement.web\\invoicemanagement.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{48CEBC7B-FF28-4576-9385-6E6FD5407676}|InvoiceManagement.Web\\InvoiceManagement.Web.csproj|solutionrelative:invoicemanagement.web\\invoicemanagement.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\assignment3paulomedeiros\\invoicemanagementapp\\invoice.dataaccess\\migrations\\20241119032709_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78027CBD-742C-486F-AD33-1957A0268442}|Invoice.DataAccess\\InvoiceManagement.DataAccess.csproj|solutionrelative:invoice.dataaccess\\migrations\\20241119032709_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceManagementControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Tests\\InvoiceManagementControllerTests.cs",
+              "RelativeDocumentMoniker": "InvoiceManagement.Tests\\InvoiceManagementControllerTests.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Tests\\InvoiceManagementControllerTests.cs",
+              "RelativeToolTip": "InvoiceManagement.Tests\\InvoiceManagementControllerTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:35:01.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "Invoice.DataAccess\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Entities\\Invoice.cs",
+              "RelativeToolTip": "Invoice.DataAccess\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:06:23.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_CustomerFormPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\InvoiceManagement\\_CustomerFormPartialView.cshtml",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Views\\InvoiceManagement\\_CustomerFormPartialView.cshtml",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\InvoiceManagement\\_CustomerFormPartialView.cshtml",
+              "RelativeToolTip": "InvoiceManagement.Web\\Views\\InvoiceManagement\\_CustomerFormPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T03:41:14.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InvoiceManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T05:21:15.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InvoiceManagement.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T04:21:38.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\InvoiceManagement\\Add.cshtml",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Views\\InvoiceManagement\\Add.cshtml",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\InvoiceManagement\\Add.cshtml",
+              "RelativeToolTip": "InvoiceManagement.Web\\Views\\InvoiceManagement\\Add.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T03:47:18.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Controllers\\InvoiceManagementController.cs",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Controllers\\InvoiceManagementController.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Controllers\\InvoiceManagementController.cs",
+              "RelativeToolTip": "InvoiceManagement.Web\\Controllers\\InvoiceManagementController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA4wHgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:01:37.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Services\\InvoiceManagementService.cs",
+              "RelativeDocumentMoniker": "Invoice.DataAccess\\Services\\InvoiceManagementService.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Services\\InvoiceManagementService.cs",
+              "RelativeToolTip": "Invoice.DataAccess\\Services\\InvoiceManagementService.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswGMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:02:53.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InvoiceManagement.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:27:36.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\InvoiceManagement\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Views\\InvoiceManagement\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\InvoiceManagement\\Edit.cshtml",
+              "RelativeToolTip": "InvoiceManagement.Web\\Views\\InvoiceManagement\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T04:41:33.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IInvoiceManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Services\\IInvoiceManagementService.cs",
+              "RelativeDocumentMoniker": "Invoice.DataAccess\\Services\\IInvoiceManagementService.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Services\\IInvoiceManagementService.cs",
+              "RelativeToolTip": "Invoice.DataAccess\\Services\\IInvoiceManagementService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:45:31.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241119032709_initial.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Migrations\\20241119032709_initial.cs",
+              "RelativeDocumentMoniker": "Invoice.DataAccess\\Migrations\\20241119032709_initial.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Migrations\\20241119032709_initial.cs",
+              "RelativeToolTip": "Invoice.DataAccess\\Migrations\\20241119032709_initial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:27:09.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentTerms.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Entities\\PaymentTerms.cs",
+              "RelativeDocumentMoniker": "Invoice.DataAccess\\Entities\\PaymentTerms.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Entities\\PaymentTerms.cs",
+              "RelativeToolTip": "Invoice.DataAccess\\Entities\\PaymentTerms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:26:59.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Invoice.DataAccess\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Entities\\Customer.cs",
+              "RelativeToolTip": "Invoice.DataAccess\\Entities\\Customer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:22:54.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Models\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Models\\CustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Models\\CustomerViewModel.cs",
+              "RelativeToolTip": "InvoiceManagement.Web\\Models\\CustomerViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:28:53.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cshtml",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\InvoiceManagement\\Customer.cshtml",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Views\\InvoiceManagement\\Customer.cshtml",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\InvoiceManagement\\Customer.cshtml",
+              "RelativeToolTip": "InvoiceManagement.Web\\Views\\InvoiceManagement\\Customer.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T03:58:34.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Models\\CustomersViewModel.cs",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Models\\CustomersViewModel.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Models\\CustomersViewModel.cs",
+              "RelativeToolTip": "InvoiceManagement.Web\\Models\\CustomersViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:59:28.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "InvoiceManagement.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T21:54:22.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\InvoiceManagement\\Manage.cshtml",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Views\\InvoiceManagement\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\InvoiceManagement\\Manage.cshtml",
+              "RelativeToolTip": "InvoiceManagement.Web\\Views\\InvoiceManagement\\Manage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T03:21:47.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Program.cs",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Program.cs",
+              "RelativeToolTip": "InvoiceManagement.Web\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:02:00.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InvoicesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Models\\InvoicesViewModel.cs",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Models\\InvoicesViewModel.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Models\\InvoicesViewModel.cs",
+              "RelativeToolTip": "InvoiceManagement.Web\\Models\\InvoicesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:57:18.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InvoiceLineItem.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Entities\\InvoiceLineItem.cs",
+              "RelativeDocumentMoniker": "Invoice.DataAccess\\Entities\\InvoiceLineItem.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Entities\\InvoiceLineItem.cs",
+              "RelativeToolTip": "Invoice.DataAccess\\Entities\\InvoiceLineItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:26:59.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InvoiceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Entities\\InvoiceDbContext.cs",
+              "RelativeDocumentMoniker": "Invoice.DataAccess\\Entities\\InvoiceDbContext.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\Invoice.DataAccess\\Entities\\InvoiceDbContext.cs",
+              "RelativeToolTip": "Invoice.DataAccess\\Entities\\InvoiceDbContext.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:27:00.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InvoiceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Models\\InvoiceViewModel.cs",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Models\\InvoiceViewModel.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Models\\InvoiceViewModel.cs",
+              "RelativeToolTip": "InvoiceManagement.Web\\Models\\InvoiceViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:56:34.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "InvoiceManagement.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:21:52.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InvoiceManagement.Web",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\InvoiceManagement.Web.csproj",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\InvoiceManagement.Web.csproj",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\InvoiceManagement.Web.csproj",
+              "RelativeToolTip": "InvoiceManagement.Web\\InvoiceManagement.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T04:12:56.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "InvoiceManagement.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\Assignment3PauloMedeiros\\InvoiceManagementApp\\InvoiceManagement.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "InvoiceManagement.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T04:08:49.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

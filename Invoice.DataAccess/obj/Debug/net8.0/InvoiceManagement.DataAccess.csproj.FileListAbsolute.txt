@@ -1,0 +1,28 @@
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\bin\Debug\net8.0\InvoiceManagement.DataAccess.deps.json
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\bin\Debug\net8.0\InvoiceManagement.DataAccess.runtimeconfig.json
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\bin\Debug\net8.0\InvoiceManagement.DataAccess.dll
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\bin\Debug\net8.0\InvoiceManagement.DataAccess.pdb
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.csproj.AssemblyReference.cache
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.AssemblyInfoInputs.cache
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.AssemblyInfo.cs
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.csproj.CoreCompileInputs.cache
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.dll
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\refint\InvoiceManagement.DataAccess.dll
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.pdb
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.genruntimeconfig.cache
+D:\College\Level 3\PROG2230 - Microsoft Web Technologies\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\ref\InvoiceManagement.DataAccess.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\bin\Debug\net8.0\InvoiceManagement.DataAccess.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\bin\Debug\net8.0\InvoiceManagement.DataAccess.runtimeconfig.json
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\bin\Debug\net8.0\InvoiceManagement.DataAccess.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\bin\Debug\net8.0\InvoiceManagement.DataAccess.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\refint\InvoiceManagement.DataAccess.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\InvoiceManagement.DataAccess.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Assignment3PauloMedeiros\InvoiceManagementApp\Invoice.DataAccess\obj\Debug\net8.0\ref\InvoiceManagement.DataAccess.dll

@@ -1,0 +1,72 @@
+﻿@model CustomersViewModel
+
+@{
+    ViewData["Title"] = @Model.ActiveCategory + " Customers";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a class="link-primary" asp-action="AddCustomer">Add a new Customer</a>
+</p>
+
+@if (Model.Customers.Count > 0)
+{
+    @if (TempData.ContainsKey("undoCustomerId"))
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            @TempData["message"]
+            <a class="btn btn-link" asp-action="UndoDeleteCustomer">Undo</a>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    else if (TempData.Keys.Contains("message"))
+    {
+        <div class="alert alert-@TempData["className"] alert-dismissible fade show" role="alert">
+            @TempData["message"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"> </button>
+        </div>
+    }
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Address</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var customer in Model.Customers)
+            {
+                <tr>
+                    <td>@customer.Name</td>
+                    <td>@customer.Address1</td>
+                    <td>
+                        <a class="link-info" asp-action="ManageInvoices" asp-route-customerId="@customer.CustomerId">Invoices</a>
+                        |
+                        <a class="link-info" asp-action="EditCustomer" asp-route-customerId="@customer.CustomerId">Edit</a>
+                        |
+                        <a class="link-danger" asp-action="DeleteCustomer" asp-route-customerId="@customer.CustomerId">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning" role="alert">
+        No Customers found! Add a Customer.
+    </div>
+}
+<div class="">
+    <ul class="nav nav-tabs">
+        @foreach (var category in Model.Categories)
+        {
+            <li class="nav-item">
+                <a class="nav-link @(Model.ActiveCategory == category ? "active" : "") asp-action="Customers" asp-route-category="@category">@category</a>
+            </li>
+        }
+    </ul>
+
+    <br />
+</div>
